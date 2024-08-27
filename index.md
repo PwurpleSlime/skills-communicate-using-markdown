@@ -4,4 +4,7 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+- [x] ligma
+- [x] got shot
+- [ ] died
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
